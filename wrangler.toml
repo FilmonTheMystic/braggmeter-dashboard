@@ -1,5 +1,7 @@
 name = "braggmeter-dashboard"
 compatibility_date = "2025-03-25"
 
+pages_build_output_dir = "build"
+
 [site]
 bucket = "./build"
